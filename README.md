@@ -64,7 +64,6 @@
     <!-- Adding a text input box -->
     <label for="nameInput">Enter your name:</label>
     <input type="text" id="nameInput" placeholder="Your name...">
-  </div>
 
   <script>
     const button = document.getElementById('revealButton');
